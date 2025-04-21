@@ -5,7 +5,7 @@
 ;██ •this is the version that uses CHR RAM                                  ██
 ;██                                                                         ██
 ;██ •this code uses CC65 as compiler (converts this .S file to a .NES file) ██
-;██ →you can use the "chrRAM assembler.bat" file to compile the code               ██
+;██ →you can use the "chrRAM assembler.bat" file to compile the code        ██
 ;██ →cc65 link: https://cc65.github.io/                                     ██
 ;██                          ♦written by micknin, on github. 20/04/2025♦    ██
 ;███████████████████████████████████████████████████████████████████████████  
